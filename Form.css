@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    flex-direction: column;
+    max-width:300px ;
+    margin: 100px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+    height: 200px;
+}
+input{
+    max-width: 300%;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+   border-radius: 5px;
+}
+button{
+    background: antiquewhite;
+    border: #1a1a1a 1px solid;
+    border-radius: 5px;
+    width: 180px;
+    padding: 3px;
+    margin: 10px;
+}
