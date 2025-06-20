@@ -2,7 +2,7 @@ import React from 'react';
 
 const File=()=> {
     return (
-        <div>Yoo</div>
+        <div><Form/></div>
     );
 };
 
